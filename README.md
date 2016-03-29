@@ -1,1 +1,0 @@
-# ruthtutty.github.io
