@@ -21,7 +21,12 @@ github_username:  jekyll
 markdown: kramdown
 
 collections:
-  - play
-  - services
-  - work
-
+  play:
+    output: true
+    permalink: /play/:path/
+  services:
+    output: true
+    permalink: /services/:path/
+  work:
+    output: true
+    permalink: /work/:path/

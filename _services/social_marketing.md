@@ -1,5 +1,5 @@
 ---
-title: Social Media Marketing
+title: Social Marketing
 image_path: "img/ruth-photo.jpg"
 ---
 
